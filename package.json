@@ -1,7 +1,7 @@
 {
   "name": "smart-punctuation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Replace smart punctuation",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "author": "",
   "license": "MIT",
   "repo": {
-    "url": ""
+    "url": "https://github.com/samliebl/smart-punctuation.git"
   }
 }
